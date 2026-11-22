@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Xeo-Alba-Iulia">
-    <img src="https://img.shields.io/badge/Team-Xeo-cba6f7?style=for-the-badge&labelColor=313244" alt="Team Xeo" />
+    <img src="https://img.shields.io/badge/FTC-Team%20Xeo%20%2314278-b4befe?style=for-the-badge&labelColor=313244" alt="FTC Team Xeo #14278" />
   </a>
   <a href="https://github.com/ncn1issad/hypr-mocha-dots">
     <img src="https://img.shields.io/badge/OS-Arch%20%2B%20Hyprland-89b4fa?style=for-the-badge&logo=archlinux&logoColor=89b4fa&labelColor=313244" alt="Arch Linux + Hyprland" />
@@ -47,11 +47,10 @@ I rely heavily on **Cloudflare** to host and deploy my projects — for example,
 
 ### What I Tinker With
 
-- 🤖 **Robotics** — autonomous routines, control code, and tooling for FTC in Kotlin
-- 🌐 **Web & Cloud** — TypeScript, React, Vite, and Node.js apps deployed on Cloudflare (like [nasa.nitescutudor.ro](https://nasa.nitescutudor.ro))
-- 🛠️ **Language Exploration** — experimenting with new languages and paradigms through [polycalc](https://github.com/ncn1issad/polycalc)
-- 🎨 **Linux Ricing** — tweaking my Wayland workflow, dotfiles, and Catppuccin setups
-- 🚀 **Side Projects** — check out my pinned repositories below for what I'm currently proudest of
+- 🤖 **Robotics** — part of **[Team Xeo #14278](https://github.com/Xeo-Alba-Iulia)**, writing FTC code in Kotlin
+- 🌐 **Web & Cloud** — TypeScript, React, Vite, and Node.js apps hosted on Cloudflare (like [nasa.nitescutudor.ro](https://nasa.nitescutudor.ro))
+- 🎨 **Linux Ricing** — big fan of **Catppuccin Mocha** with **Lavender** accents on Arch + Hyprland ([hypr-mocha-dots](https://github.com/ncn1issad/hypr-mocha-dots))
+- 🛠️ **Experiments** — messing around with different languages in [polycalc](https://github.com/ncn1issad/polycalc) and whatever else catches my interest (pinned below)
 
 <div align="center">
 <picture>
@@ -72,9 +71,7 @@ I rely heavily on **Cloudflare** to host and deploy my projects — for example,
 
 ---
 
-### Activity & Momentum
-
-Always building something new, breaking my configs, and fixing them again:
+### Activity
 
 <div align="center">
 <picture>
