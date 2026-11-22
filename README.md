@@ -22,23 +22,23 @@
 
 ### About Me
 
-I'm a developer from Romania who likes bouncing between completely different kinds of software — from writing FTC robotics code mainly in **Kotlin** (with a bit of Java) for **[Team Xeo](https://github.com/Xeo-Alba-Iulia)**, to building hackathon apps, web projects, AI experiments, and GPU-accelerated tools.
+I'm a developer from Romania who likes bouncing between completely different kinds of software — from writing FTC robotics code in **Kotlin** for **[Team Xeo](https://github.com/Xeo-Alba-Iulia)**, to building web apps with **TypeScript, React, Vite, and Node.js** (strictly TypeScript over plain JS whenever I have a say), to Python AI and GPU experiments.
 
-Day to day, I run **Arch Linux + Hyprland** themed in **Catppuccin Mocha** ([hypr-mocha-dots](https://github.com/ncn1issad/hypr-mocha-dots)). Here's the main toolkit I reach for:
+I rely heavily on **Cloudflare** to host and deploy my projects — for example, you can check out my live Lunar Lens demo at **[nasa.nitescutudor.ro](https://nasa.nitescutudor.ro)**. Day to day, I run **Arch Linux + Hyprland** themed in **Catppuccin Mocha** ([hypr-mocha-dots](https://github.com/ncn1issad/hypr-mocha-dots)).
 
 <div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBorder=false&width=495&lineCount=3&theme=catppuccin_mocha&line1=kotlin%2CKotlin%2Cauto%3Bcplusplus%2CC%252B%252B%2Cauto%3Bpython%2CPython%2Cauto%3Btypescript%2CTypeScript%2Cauto%3B&line2=openjdk%2CJava%2Cauto%3Bjavascript%2CJavaScript%2Cauto%3Blua%2CLua%2Cauto%3Bhtml5%2CHTML5%2Cauto%3B&line3=archlinux%2CArch%20Linux%2Cauto%3Bhyprland%2CHyprland%2Cauto%3Bgit%2CGit%2Cauto%3Bgnubash%2CBash%2Cauto%3B"
+    srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBorder=false&width=495&lineCount=3&theme=catppuccin_mocha&line1=kotlin%2CKotlin%2Cauto%3Btypescript%2CTypeScript%2Cauto%3Bpython%2CPython%2Cauto%3B&line2=react%2CReact%2Cauto%3Bvite%2CVite%2Cauto%3Bnode.js%2CNode.js%2Cauto%3B&line3=cloudflare%2CCloudflare%2Cauto%3Barchlinux%2CArch%20Linux%2Cauto%3Bhyprland%2CHyprland%2Cauto%3B"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBorder=false&width=495&lineCount=3&theme=catppuccin_latte&line1=kotlin%2CKotlin%2Cauto%3Bcplusplus%2CC%252B%252B%2Cauto%3Bpython%2CPython%2Cauto%3Btypescript%2CTypeScript%2Cauto%3B&line2=openjdk%2CJava%2Cauto%3Bjavascript%2CJavaScript%2Cauto%3Blua%2CLua%2Cauto%3Bhtml5%2CHTML5%2Cauto%3B&line3=archlinux%2CArch%20Linux%2Cauto%3Bhyprland%2CHyprland%2Cauto%3Bgit%2CGit%2Cauto%3Bgnubash%2CBash%2Cauto%3B"
+    srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBorder=false&width=495&lineCount=3&theme=catppuccin_latte&line1=kotlin%2CKotlin%2Cauto%3Btypescript%2CTypeScript%2Cauto%3Bpython%2CPython%2Cauto%3B&line2=react%2CReact%2Cauto%3Bvite%2CVite%2Cauto%3Bnode.js%2CNode.js%2Cauto%3B&line3=cloudflare%2CCloudflare%2Cauto%3Barchlinux%2CArch%20Linux%2Cauto%3Bhyprland%2CHyprland%2Cauto%3B"
   />
   <img
     alt="Tech Stack"
-    src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBorder=false&width=495&lineCount=3&theme=catppuccin_mocha&line1=kotlin%2CKotlin%2Cauto%3Bcplusplus%2CC%252B%252B%2Cauto%3Bpython%2CPython%2Cauto%3Btypescript%2CTypeScript%2Cauto%3B&line2=openjdk%2CJava%2Cauto%3Bjavascript%2CJavaScript%2Cauto%3Blua%2CLua%2Cauto%3Bhtml5%2CHTML5%2Cauto%3B&line3=archlinux%2CArch%20Linux%2Cauto%3Bhyprland%2CHyprland%2Cauto%3Bgit%2CGit%2Cauto%3Bgnubash%2CBash%2Cauto%3B"
+    src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBorder=false&width=495&lineCount=3&theme=catppuccin_mocha&line1=kotlin%2CKotlin%2Cauto%3Btypescript%2CTypeScript%2Cauto%3Bpython%2CPython%2Cauto%3B&line2=react%2CReact%2Cauto%3Bvite%2CVite%2Cauto%3Bnode.js%2CNode.js%2Cauto%3B&line3=cloudflare%2CCloudflare%2Cauto%3Barchlinux%2CArch%20Linux%2Cauto%3Bhyprland%2CHyprland%2Cauto%3B"
   />
 </picture>
 </div>
@@ -48,7 +48,8 @@ Day to day, I run **Arch Linux + Hyprland** themed in **Catppuccin Mocha** ([hyp
 ### What I Tinker With
 
 - 🤖 **Robotics** — autonomous routines, control code, and tooling for FTC in Kotlin
-- 🛠️ **Language Exploration** — learning new languages and paradigms through projects like [polycalc](https://github.com/ncn1issad/polycalc)
+- 🌐 **Web & Cloud** — TypeScript, React, Vite, and Node.js apps deployed on Cloudflare (like [nasa.nitescutudor.ro](https://nasa.nitescutudor.ro))
+- 🛠️ **Language Exploration** — experimenting with new languages and paradigms through [polycalc](https://github.com/ncn1issad/polycalc)
 - 🎨 **Linux Ricing** — tweaking my Wayland workflow, dotfiles, and Catppuccin setups
 - 🚀 **Side Projects** — check out my pinned repositories below for what I'm currently proudest of
 
