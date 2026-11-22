@@ -22,44 +22,37 @@
 
 ### About Me
 
-- 🤖 Robotics programmer with **[Team Xeo](https://github.com/Xeo-Alba-Iulia)**, building FTC competition code in **Java**
-- 🚀 Always experimenting across domains — from NASA hackathon apps and web projects to AI bots and CUDA-powered tools
-- 🛠️ Exploring different programming languages and paradigms through projects like [polycalc](https://github.com/ncn1issad/polycalc)
-- 🎨 Daily-driving **Arch Linux + Hyprland** themed in **Catppuccin Mocha** ([hypr-mocha-dots](https://github.com/ncn1issad/hypr-mocha-dots))
+I'm a developer from Romania who likes bouncing between completely different kinds of software — from writing FTC robotics code mainly in **Kotlin** (with a bit of Java) for **[Team Xeo](https://github.com/Xeo-Alba-Iulia)**, to building hackathon apps, web projects, AI experiments, and GPU-accelerated tools.
 
-### Highlighted Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Lunar-Lens](https://github.com/ncn1issad/Lunar-Lens)** | Lunar Landing Site Navigator built for a NASA hackathon | TypeScript, Python, CSS |
-| **[hypr-mocha-dots](https://github.com/ncn1issad/hypr-mocha-dots)** | Catppuccin Mocha Hyprland dotfiles for Arch Linux | Python, Lua, Shell, CSS |
-| **[polycalc](https://github.com/ncn1issad/polycalc)** | Exploring programming languages by building a calculator in each | C++, Python |
-| **[AutoDash](https://github.com/ncn1issad/AutoDash)** | AI agent built to play Geometry Dash | Python |
-| **[Text-to-Speech](https://github.com/ncn1issad/Text-to-Speech)** & **[Cloud-TTS](https://github.com/ncn1issad/Cloud-TTS)** | Large-scale TTS apps powered by GPU (CUDA) & Google Cloud TTS | Python |
-
----
+Day to day, I run **Arch Linux + Hyprland** themed in **Catppuccin Mocha** ([hypr-mocha-dots](https://github.com/ncn1issad/hypr-mocha-dots)). Here's the main toolkit I reach for:
 
 <div align="center">
-
-### Tech Stack
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBorder=false&width=495&lineCount=3&theme=catppuccin_mocha&line1=cplusplus,C%2B%2B,auto;python,Python,auto;typescript,TypeScript,auto;openjdk,Java,auto;&line2=javascript,JavaScript,auto;lua,Lua,auto;html5,HTML5,auto;css,CSS3,auto;&line3=archlinux,Arch%20Linux,auto;hyprland,Hyprland,auto;git,Git,auto;gnubash,Bash,auto;"
+    srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBorder=false&width=495&lineCount=3&theme=catppuccin_mocha&line1=kotlin%2CKotlin%2Cauto%3Bcplusplus%2CC%252B%252B%2Cauto%3Bpython%2CPython%2Cauto%3Btypescript%2CTypeScript%2Cauto%3B&line2=openjdk%2CJava%2Cauto%3Bjavascript%2CJavaScript%2Cauto%3Blua%2CLua%2Cauto%3Bhtml5%2CHTML5%2Cauto%3B&line3=archlinux%2CArch%20Linux%2Cauto%3Bhyprland%2CHyprland%2Cauto%3Bgit%2CGit%2Cauto%3Bgnubash%2CBash%2Cauto%3B"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBorder=false&width=495&lineCount=3&theme=catppuccin_latte&line1=cplusplus,C%2B%2B,auto;python,Python,auto;typescript,TypeScript,auto;openjdk,Java,auto;&line2=javascript,JavaScript,auto;lua,Lua,auto;html5,HTML5,auto;css,CSS3,auto;&line3=archlinux,Arch%20Linux,auto;hyprland,Hyprland,auto;git,Git,auto;gnubash,Bash,auto;"
+    srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBorder=false&width=495&lineCount=3&theme=catppuccin_latte&line1=kotlin%2CKotlin%2Cauto%3Bcplusplus%2CC%252B%252B%2Cauto%3Bpython%2CPython%2Cauto%3Btypescript%2CTypeScript%2Cauto%3B&line2=openjdk%2CJava%2Cauto%3Bjavascript%2CJavaScript%2Cauto%3Blua%2CLua%2Cauto%3Bhtml5%2CHTML5%2Cauto%3B&line3=archlinux%2CArch%20Linux%2Cauto%3Bhyprland%2CHyprland%2Cauto%3Bgit%2CGit%2Cauto%3Bgnubash%2CBash%2Cauto%3B"
   />
   <img
     alt="Tech Stack"
-    src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBorder=false&width=495&lineCount=3&theme=catppuccin_mocha&line1=cplusplus,C%2B%2B,auto;python,Python,auto;typescript,TypeScript,auto;openjdk,Java,auto;&line2=javascript,JavaScript,auto;lua,Lua,auto;html5,HTML5,auto;css,CSS3,auto;&line3=archlinux,Arch%20Linux,auto;hyprland,Hyprland,auto;git,Git,auto;gnubash,Bash,auto;"
+    src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBorder=false&width=495&lineCount=3&theme=catppuccin_mocha&line1=kotlin%2CKotlin%2Cauto%3Bcplusplus%2CC%252B%252B%2Cauto%3Bpython%2CPython%2Cauto%3Btypescript%2CTypeScript%2Cauto%3B&line2=openjdk%2CJava%2Cauto%3Bjavascript%2CJavaScript%2Cauto%3Blua%2CLua%2Cauto%3Bhtml5%2CHTML5%2Cauto%3B&line3=archlinux%2CArch%20Linux%2Cauto%3Bhyprland%2CHyprland%2Cauto%3Bgit%2CGit%2Cauto%3Bgnubash%2CBash%2Cauto%3B"
   />
 </picture>
+</div>
 
-### GitHub Stats
+---
 
+### What I Tinker With
+
+- 🤖 **Robotics** — autonomous routines, control code, and tooling for FTC in Kotlin
+- 🛠️ **Language Exploration** — learning new languages and paradigms through projects like [polycalc](https://github.com/ncn1issad/polycalc)
+- 🎨 **Linux Ricing** — tweaking my Wayland workflow, dotfiles, and Catppuccin setups
+- 🚀 **Side Projects** — check out my pinned repositories below for what I'm currently proudest of
+
+<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -74,7 +67,15 @@
     src="https://github-readme-stats.vercel.app/api?username=ncn1issad&show_icons=true&hide_border=true&theme=catppuccin_mocha"
   />
 </picture>
+</div>
 
+---
+
+### Activity & Momentum
+
+Always building something new, breaking my configs, and fixing them again:
+
+<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -93,5 +94,4 @@
 <br/>
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" alt="Catppuccin Footer" />
-
 </div>
