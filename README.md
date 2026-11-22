@@ -2,11 +2,11 @@
 
 # Hey, I'm Nitescu Tudor (`ncn1`)
 
-*Developer, robotics programmer, and Linux ricer from Alba Iulia, Romania.*
+*Developer, robotics programmer, and Linux ricer from Romania.*
 
 <p align="center">
   <a href="https://github.com/Xeo-Alba-Iulia">
-    <img src="https://img.shields.io/badge/Team-Xeo%20Alba%20Iulia-cba6f7?style=for-the-badge&labelColor=313244" alt="Xeo Alba Iulia" />
+    <img src="https://img.shields.io/badge/Team-Xeo-cba6f7?style=for-the-badge&labelColor=313244" alt="Team Xeo" />
   </a>
   <a href="https://github.com/ncn1issad/hypr-mocha-dots">
     <img src="https://img.shields.io/badge/OS-Arch%20%2B%20Hyprland-89b4fa?style=for-the-badge&logo=archlinux&logoColor=89b4fa&labelColor=313244" alt="Arch Linux + Hyprland" />
@@ -22,9 +22,9 @@
 
 ### About Me
 
-- 🤖 Robotics programmer with **[@Xeo-Alba-Iulia](https://github.com/Xeo-Alba-Iulia)**, building FTC competition code in **Java**
+- 🤖 Robotics programmer with **[Team Xeo](https://github.com/Xeo-Alba-Iulia)**, building FTC competition code in **Java**
 - 🚀 Always experimenting across domains — from NASA hackathon apps and web projects to AI bots and CUDA-powered tools
-- 🧠 Practicing algorithms and competitive programming in **C++** ([PBInfo](https://github.com/ncn1issad/PBInfo), [Misiune-olimpic-info](https://github.com/ncn1issad/Misiune-olimpic-info)) and exploring new languages through [polycalc](https://github.com/ncn1issad/polycalc)
+- 🛠️ Exploring different programming languages and paradigms through projects like [polycalc](https://github.com/ncn1issad/polycalc)
 - 🎨 Daily-driving **Arch Linux + Hyprland** themed in **Catppuccin Mocha** ([hypr-mocha-dots](https://github.com/ncn1issad/hypr-mocha-dots))
 
 ### Highlighted Projects
